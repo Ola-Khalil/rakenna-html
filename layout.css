@@ -1,0 +1,19 @@
+html{
+    font-size: 62.5%;
+
+}
+body{
+   font-size: 1.2rem;
+   
+}
+.flex{
+    display: flex;
+}
+.para{
+    flex-basis: 100%;
+    flex-grow: 1;
+}
+img{
+    max-width: 100%;
+    flex-grow: 1;
+}
